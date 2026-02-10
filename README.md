@@ -25,7 +25,5 @@ A modern social networking UI built using React + TailwindCSS.
 ### ✍️ **6. Text Converter App**
 A text utility app built in React for text manipulation (uppercase, lowercase, formatting, etc.)
 
----
 
-## 📁 Folder Structure
 
